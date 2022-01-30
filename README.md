@@ -1,4 +1,4 @@
-# video-games-sales
+# Sales Prediction
 
 ## Goals of this project
 Using <i>visualization methods</i> and
